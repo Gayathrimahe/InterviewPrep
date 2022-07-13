@@ -1,3 +1,6 @@
+
+# Declare string with Duplicates(S1,S2)-->Convert to set to remove duplicates-->
+#symmetric_difference--> returns all items to result variable except the items on intersection
 S1 = "aacdb"
 S2 = "gafd"
 
